@@ -25,7 +25,7 @@ A modular, config-driven quality-control (QC) pipeline for RECIST-based oncology
 ├── issue.py                 # QCIssue dataclass + issue() factory
 ├── normalize.py             # column canonicalization, parsing, derived flags
 ├── metrics.py                # pass/fail metrics and patient status matrix
-└── qc_modules/
+└── QC_Modules/
     ├── __init__.py
     ├── schema.py             # 01_SCHEMA_AND_INPUTS, 02_NORMALIZATION
     ├── baseline.py           # 03_BASELINE_ELIGIBILITY
