@@ -39,7 +39,7 @@ A modular, config-driven quality-control (QC) pipeline for RECIST-based oncology
     ├── ne_validation.py      # 11_NE_VALIDATION
     ├── lesion_format.py      # 12_LESION_FORMAT
     ├── lesion_location.py    # 13_LESION_LOCATION
-    └── pixel_coordinates.py  # 14_PIXEL_COORDINATES 
+    └── pixel_coordinates.py  # 14_PIXEL_COORDINATES (not currently wired into engine.py)
 ```
 
 ## Installation
