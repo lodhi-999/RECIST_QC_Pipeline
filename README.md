@@ -160,6 +160,3 @@ To add a new QC module:
 
 Because `metrics.py` derives all rollups from the `qc_issues` DataFrame and `QC_LEVEL_ORDER`, no changes to the metrics layer are needed as long as your issues carry the correct `qc_level`.
 
-## License
-
-_Add your license here._
